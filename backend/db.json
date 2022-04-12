@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Julio Guedes",
+      "email": "jguedes@email.com"
+    },
+    {
+      "id": 2,
+      "name": "Miriam Santos",
+      "email": "msantos@email.com"
+    },
+    {
+      "name": "Rodrigo S Gomes",
+      "email": "rod_s_gomes@email.com",
+      "id": 3
+    }
+  ]
+}
